@@ -1,0 +1,23 @@
+/* Styles for Reaction Tester. */
+
+body {
+	background: #eee;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+#container {
+	margin: 0 auto;
+	text-align: center;
+}
+
+#text, #time {
+	font-weight: bold;
+}
+
+#object {
+	width: 150px;
+	height: 150px;
+	background-color: blue;
+	display: none;
+	position: relative;
+}
