@@ -1,5 +1,6 @@
 // Scripts for Reaction Tester.
 
+// Function to randomize color.
 function getRandomColor() {
     var letters = "0123456789ABCDEF".split('');
     var color = "#";
